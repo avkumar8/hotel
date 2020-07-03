@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sp_portal">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
     <sp_portal action="INSERT_OR_UPDATE">
         <css_variables>$brand-primary: #000000;
 $body-bg: #FFB019;
@@ -33,40 +32,43 @@ $text-muted: #000000;
         <quick_start_config/>
         <sc_catalog/>
         <sc_catalog_page/>
+        <sc_category_page/>
         <sp_chat_queue/>
         <sp_rectangle_menu display_value="Hotel header menu">f155e3924fd66200c17782818110c74e</sp_rectangle_menu>
         <sqanda_knowledge_base/>
         <sys_class_name>sp_portal</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-10-08 22:35:58</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
         <sys_id>5ad327124fd66200c17782818110c73c</sys_id>
         <sys_mod_count>12</sys_mod_count>
         <sys_name>Hotel Portal</sys_name>
         <sys_package display_value="Hotel" source="x_hotel">a8f395beebc522004fcde08a5206fe2e</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Hotel">a8f395beebc522004fcde08a5206fe2e</sys_scope>
         <sys_update_name>sp_portal_5ad327124fd66200c17782818110c73c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2016-10-08 22:45:47</sys_updated_on>
         <theme display_value="Hotel Theme">dda3e3124fd66200c17782818110c777</theme>
         <title>Hotel Portal</title>
+        <ts_index_group/>
         <url_suffix>hotel</url_suffix>
     </sp_portal>
+    <sys_translated_text action="delete_multiple" query="documentkey=5ad327124fd66200c17782818110c73c"/>
     <sys_attachment action="INSERT_OR_UPDATE">
         <average_image_color/>
+        <chunk_size_bytes/>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
+        <encryption_context/>
         <file_name>logo</file_name>
+        <hash/>
         <image_height/>
         <image_width/>
         <size_bytes>13814</size_bytes>
         <size_compressed>13413</size_compressed>
+        <state/>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-10-08 22:39:13</sys_created_on>
-        <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
         <sys_id>1de46b124fd66200c17782818110c73f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>

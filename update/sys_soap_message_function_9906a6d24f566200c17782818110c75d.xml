@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_soap_message_function">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_soap_message_function">
     <sys_soap_message_function action="INSERT_OR_UPDATE">
         <authentication_type/>
         <basic_auth_password/>
@@ -21,6 +20,7 @@
         <key_store_password/>
         <lock>false</lock>
         <protocol_profile/>
+        <qualified_name>CHS SOAP [ status ]</qualified_name>
         <soap_action>urn:tasks#status</soap_action>
         <soap_endpoint>http://www.gardiner-hotels.com/chs/soap/index.php</soap_endpoint>
         <soap_message display_value="CHS SOAP">f3e526164f566200c17782818110c7d7</soap_message>
@@ -28,13 +28,11 @@
         <sys_class_name>sys_soap_message_function</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-10-08 18:04:30</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
         <sys_id>9906a6d24f566200c17782818110c75d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>status</sys_name>
         <sys_package display_value="Hotel" source="x_hotel">a8f395beebc522004fcde08a5206fe2e</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Hotel">a8f395beebc522004fcde08a5206fe2e</sys_scope>
         <sys_update_name>sys_soap_message_function_9906a6d24f566200c17782818110c75d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
